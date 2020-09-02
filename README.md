@@ -1,0 +1,2 @@
+# yetyao.hexo.blog
+hexo
