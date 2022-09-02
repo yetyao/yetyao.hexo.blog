@@ -15,4 +15,5 @@ except IOError:
 else:
     print "内容写入文件成功"
     fh.close()
+
 ```
