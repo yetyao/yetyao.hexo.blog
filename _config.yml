@@ -79,7 +79,8 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/yetyao/yetyao.github.io.git
+#  repository: https://github.com/yetyao/yetyao.github.io.git
+  repository: git@github.com:/yetyao/yetyao.github.io.git
   branch: master
 
 # Feed
