@@ -25,6 +25,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 
 ``` bash
 $ hexo generate
+$ hexo g
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
@@ -33,6 +34,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ``` bash
 $ hexo deploy
+$ hexo d
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
