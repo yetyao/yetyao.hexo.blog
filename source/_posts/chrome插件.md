@@ -11,6 +11,7 @@ tags: chrome
 ## 翻译
 
 1. [沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate-web-p/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+2. [google翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
 ## TAB
 
