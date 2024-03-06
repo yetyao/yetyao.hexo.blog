@@ -10,3 +10,4 @@ categories: chatgpt
 3. [AI知识库](https://ki6j1b0d92h.feishu.cn/wiki/wikcnAFcEccJ5iXiU8MRntc2Vyb)
 4. [chatgpt提示词](https://mitenmit.github.io/gpt/)
 5. [玩赚ChatGPT](https://pan.quark.cn/s/51eae5ad0baa#/list/share)
+6. [Sora学习资源最全合集](https://pan.quark.cn/s/4e5b95f24ddb#/list/share)
