@@ -11,3 +11,4 @@ categories: chatgpt
 4. [chatgpt提示词](https://mitenmit.github.io/gpt/)
 5. [玩赚ChatGPT](https://pan.quark.cn/s/51eae5ad0baa#/list/share)
 6. [Sora学习资源最全合集](https://pan.quark.cn/s/4e5b95f24ddb#/list/share)
+7. [A智能应用百科立即落地实操](https://pan.quark.cn/s/45a4024747ca#/list/share)
