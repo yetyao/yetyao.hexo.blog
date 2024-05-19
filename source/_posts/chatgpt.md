@@ -15,3 +15,5 @@ categories: chatgpt
 8. [黑马程序员ChatGPTi视频教程](https://pan.quark.cn/s/f3ab00186c49#/list/share)
 9. [ChatGPT商业版+自用版源码(价值999+元)](https://pan.quark.cn/s/d27365778ade#/list/share)
 10. [A1行业资料-2023年最新资料(357份)](https://pan.quark.cn/s/618a0e46f650#/list/share)
+11. [黄豆奶爸chatgpt大师班从入门到精通视频教程](https://pan.quark.cn/s/4c829307c88c#/list/share)
+12. [A处理表格制作技巧](https://pan.quark.cn/s/171d1e12ef3d#/list/share)
