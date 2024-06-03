@@ -17,3 +17,5 @@ categories: chatgpt
 10. [A1行业资料-2023年最新资料(357份)](https://pan.quark.cn/s/618a0e46f650#/list/share)
 11. [黄豆奶爸chatgpt大师班从入门到精通视频教程](https://pan.quark.cn/s/4c829307c88c#/list/share)
 12. [A处理表格制作技巧](https://pan.quark.cn/s/171d1e12ef3d#/list/share)
+13. [chatbookai](https://chatbookai.net/)
+14. [A精英课从入门到精通，丰宣的实战案例讲解，跟着案例学，提升白我！](https://pan.quark.cn/s/9b7707f146c5#/list/share)
