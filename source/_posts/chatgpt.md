@@ -19,3 +19,5 @@ categories: chatgpt
 12. [A处理表格制作技巧](https://pan.quark.cn/s/171d1e12ef3d#/list/share)
 13. [chatbookai](https://chatbookai.net/)
 14. [A精英课从入门到精通，丰宣的实战案例讲解，跟着案例学，提升白我！](https://pan.quark.cn/s/9b7707f146c5#/list/share)
+15. [publicapis](https://publicapis.io/)
+16. [A1智能变现实操训练营：普通人利用A赚钱月收益数万元（全套课程+文档）](https://pan.quark.cn/s/3111d7520976#/list/share)
