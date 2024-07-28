@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "86f5d6b09686bf67",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d4c39f2e8633217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824696010420a746",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c424642fbecf85e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9ce0a39d8631dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c97d398aa35ee0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0896949130653a35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99b65e623bbfb93e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fa09f5a6e6c6b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "944c5f8d19dd27be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf22c56d0c076a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce68d3e7f58a389e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a425104eb28e8a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "639f0020dc7c269d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "824696010420a746",
+  "lastOpenFiles": [
+    "头像.md",
+    "source/_posts/中国经典.md",
+    "source/_posts/test.md",
+    "source/_posts/Markdown语法入门.md",
+    "source/_posts/电影资源.md",
+    "source/_posts/软件推荐.md",
+    "source/_posts/网盘搜索网站.md",
+    "source/_posts/睡眠.md",
+    "source/_posts/电影网站.md",
+    "source/_posts/阿里网盘资源-教育.md"
+  ]
+}
