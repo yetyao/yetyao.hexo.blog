@@ -23,3 +23,4 @@ categories: chatgpt
 16. [A1智能变现实操训练营：普通人利用A赚钱月收益数万元（全套课程+文档）](https://pan.quark.cn/s/3111d7520976#/list/share)
 17. [ChatGPT+M)+SD-AIGC专题.…更新版)打造你的最强生产力工具！](https://pan.quark.cn/s/1d61570b7742#/list/share)
 18. [从零进阶AI人工智能辅助建筑设计，做第一批驾驭AI的建筑师](https://pan.quark.cn/s/83e6813027f2#/list/share)
+19. [GPT掘金，教你用GPT，高效创富](https://pan.quark.cn/s/945156c5ecb2#/list/share)
