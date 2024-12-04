@@ -14,3 +14,4 @@ categories: IT
 5. sublime[sublime](http://www.sublimetext.com/)
 6. [程序员工序箱](https://www.toolfk.com/)
 7. [工具箱](http://www.atoolbox.net/)
+8. [拉钩-22讲通关Go语言-Go语言布道者的入门笔记](https://pan.quark.cn/s/5bbf782b7a70#/list/share)
