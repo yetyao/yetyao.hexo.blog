@@ -13,3 +13,5 @@ categories: python
 5. [blog1 -notes](https://if.zoepi.online/juicing01-1)
 5. [blog2](https://yindongliang.com/)
 6. [Python企业级全技术栈开发](https://pan.quark.cn/s/a942afc2292c#/list/share)
+7. [从零写Python练手项目：实用脚本](https://pan.quark.cn/s/45307418d9fc#/list/share)
+8. [彭涛Python爬虫训练营](https://pan.quark.cn/s/1f7040d24b10#/list/share)
